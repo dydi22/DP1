@@ -1,0 +1,16 @@
+.venv/
+.pycache/
+__pycache__/
+.pytest_cache/
+artifacts*/
+artifacts_live/
+data/raw/
+*.pyc
+.DS_Store
+
+# Ignore local data
+*.csv
+*.duckdb
+*.log
+.venv/
+__pycache__/
